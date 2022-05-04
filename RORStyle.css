@@ -1,0 +1,97 @@
+body{
+	background-image:url("https://wallpapercave.com/wp/wp6180578.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1,h2,h3,h4,h5,h6{
+	text-shadow:1px 1px 4px grey;
+}
+table, th, tbody, tr, td{
+	background-color: rgba(0,0,0,0.5);
+	text-shadow: 1px 1px 4px black;
+	color:white;
+}
+
+table, th, td{
+	border-collapse: collapse;
+	border:0.5px solid black;
+	text-align: center;
+}
+th{
+	text-align: center;
+	margin: 10px;
+}
+.liveSearchBar{
+	max-width:50%;
+}
+
+.searchfiltertable{
+	width:20%;
+	text-align:center;
+}
+.categoryDesc{
+	text-shadow: 3px 3px 5px black;
+	color:white;
+	font-size:16px; 
+	text-align:justify;
+	width:100%;
+}
+.para{	
+	text-shadow: 3px 3px 5px black;
+	color:white;
+	width:75%; 
+	font-size:15px; 
+	text-align:justify;
+}
+
+.sources{
+	color: cyan;
+	text-shadow: 3px 3px 5px black;
+}
+
+.allItemsTable, .itemsSearchFilter, .itemsSearchLive {
+	text-align:center;
+}
+.allItemsTable .itNa{
+	width:25%;
+}
+.allItemsTable .itDe{
+	width:45%;
+}
+.itTY{
+	width:10%;
+}
+
+.itCa, .itNa {
+	width:20%;
+}
+.itDe {
+	width:30%;
+}
+.itemDesc{
+	text-align: left;
+	margin: 10px;
+}
+.pageTitle, .allButtons, .profileinfo, .alignText{
+	text-align:center;
+}
+
+.aboutMore{
+	text-shadow: 3px 3px 5px black;
+	color:white;
+	width:100%; 
+	font-size:12px; 
+	text-align:justify;
+}
+.aboutContent{
+	margin:15px 30px;
+}
+.notice{
+	text-shadow: 3px 3px 5px black;
+	color:white;
+	font-size:15px; 
+	text-align:center;
+}
+
