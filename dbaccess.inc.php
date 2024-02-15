@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$dbuser="1800168";
-$dbpass="123qweasdZXC";
-$dbname="db1800168";
+$dbuser="#######";
+$dbpass="############";
+$dbname="db#######";
 
 $mysqli = mysqli_connect($servername, $dbuser, $dbpass, $dbname);
 
